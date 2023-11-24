@@ -1,0 +1,46 @@
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper {
+    width: 50%;
+    padding: 1rem;
+}
+
+.quote-box {
+    padding: 40px 50px 40px 50px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 0.5rem;
+}
+
+.right {
+    text-align: right;
+    margin-top: 2rem;
+}
+
+.new-quote {
+    margin-left: 0.5rem;
+}
+
+.button-div {
+    margin-top: 2rem;
+}
+
+.logo {
+    padding: 0.5rem;
+}
+
+.footer {
+    margin-top: 0.5rem;
+}
+
+#text {
+    display: inline-block;
+}
+
+.fa-quote-left {
+    display: inline-block;
+}
